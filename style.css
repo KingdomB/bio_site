@@ -12,9 +12,58 @@ html{
 
 #head-shot{
     float: left;
-    margin-right: 10px;
-    margin-left: 10%;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    border-radius: 10%;
+    margin-right: 50px;
+    margin-left: 30%;
+    box-shadow: 0 4px 8px 0 #4F4F60, 0 6px 20px 0 #4F4F60;
+    border-radius: 2%;
 }
 
+#a {
+    text-align: right;
+}
+
+#names h1 {
+     margin: 2px;
+     font-size: 7.854em;
+     font-family: 'Pinyon Script', cursive;
+     font-weight: bolder;
+     color: #4F4F60;
+ }
+
+#lastname {
+     padding-left: 5%;
+ }
+
+li {
+    display: inline;
+    
+    
+}
+
+a {
+    text-decoration: none;
+    color: #4F4F60;
+    font-size: 2.488em;
+    font-weight: bold;
+    margin-left:30px;
+    margin-right:30px;    
+       
+}
+
+a:visited {
+    color: #E899DC;
+}
+
+
+/* mouse over link */
+
+a:hover {
+    color: #AEE8C8;
+}
+
+
+nav {
+    text-align: center;
+    border-spacing: 5px;
+    margin-top: 50px;
+}
