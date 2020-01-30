@@ -87,6 +87,11 @@ hr {
     border-radius: 5px;
   }
 
+#baby {
+    text-align: center;
+}
+
+
 .gen_pic img {
     width: auto;
     height: 400px;
@@ -122,7 +127,12 @@ hr {
     display: inline-block;
     clear: none;
 }
+ 
+#header1 {
+    padding-top: 7%;
+}
 
+#header1,
 #header2,
 #header3,
 #header4 {
@@ -139,10 +149,6 @@ footer {
     text-align: center;
 }
 
-#header1 {
-    clear: none;
-    display: inline;
-}
 
 
 
