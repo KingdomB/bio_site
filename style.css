@@ -18,20 +18,6 @@ html{
     border-radius: 2%;
 }
 
-
-/* #blah {
-    float: left;
-    margin-right: 10px;
-    clear:both;
-}
-#blah2 {
-    margin-left: 0px;
-    overflow:auto;
-    display:block;
-    clear: none;
-} */
-
-
 #a {
     text-align: right;
 }
@@ -101,40 +87,61 @@ hr {
     border-radius: 5px;
   }
 
-
-
-
-
-
 .gen_pic img {
     width: auto;
     height: 400px;
-    border-radius: 10px;
+    border-radius: 2px;
     clear: none;
-
 }
 
-#education {
+#education,
+#education2,
+#present {
     text-align: center;
 }
 
-#education figure {
+#education figure,
+#education2 figure,
+#present figure {
     display: inline-block;
     clear: none;
-    
-}
-
-#header2 {
     text-align: center;
 }
 
-#childhood figure img{
+#present {
+    text-align: center;
+}
+
+#present figure {
+    display: inline-block;
+    clear: none;
+    text-align: center;
+}
+
+#childhood{
+    display: inline-block;
+    clear: none;
+}
+
+#header2,
+#header3,
+#header4 {
+    text-align: center;
+}
+
+#childhood figure img, {
     display: inline-block;
     clear: none
 }
 
 footer {
     clear: both;
+    text-align: center;
+}
+
+#header1 {
+    clear: none;
+    display: inline;
 }
 
 
