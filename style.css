@@ -93,28 +93,6 @@ nav {
   width: 100% relative;
 }
 
-#hr_topnbtm:before,
-#hr_topnbtm:after {
-  position: absolute;
-  bottom: -3.536px;
-  width: 7.071px;
-  height: 7.071px;
-  display: block;
-  border-width: 0 7.071px 7.071px 0;
-  border-color: #4f4f60;
-  border-style: double;
-  box-sizing: border-box;
-}
-#hr_topnbtm:before {
-  transform: translateZ(0) rotate(-45deg);
-  left: -21px;
-}
-#hr_topnbtm:after {
-  transform: translateZ(0) rotate(135deg);
-  right: -21px;
-}
-
-
 hr {
   border: 4px double #4f4f60;
   border-radius: 5px;
