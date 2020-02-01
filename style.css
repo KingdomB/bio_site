@@ -83,6 +83,7 @@ nav {
     text-align: center;
     border-spacing: 5px;
     margin: 50px 0 35px 0;
+    color: rgba(255, 211, 231, 1);
     text-shadow: -1px 0 #4F4F60, 0 1px #4F4F60, 1px 0 #4F4F60, 0 -1px #4F4F60;
 }
 
