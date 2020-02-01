@@ -14,12 +14,16 @@ html{
     float: left;
     margin-right: 50px;
     margin-left: 30%;
-    box-shadow: 0 4px 8px 0 #4F4F60, 0 6px 20px 0 #4F4F60;
-    border-radius: 2%;
+    box-shadow: 8px 4px 8px #E8B0DF, 20px 20px 20px 0 #E8B0DF;
+    border-radius: 2px;
 }
 
 #a {
     text-align: right;
+}
+
+#baby {
+    margin-bottom: 50px;
 }
 
 #names h1 {
@@ -28,13 +32,14 @@ html{
      font-family: 'Pinyon Script', cursive;
      font-weight: bolder;
      color: #4F4F60;
+     text-shadow: 1px 1px 2px #E899DC, 0 0 25px hotpink, 0 0 5px #FF328E;
  }
 
  h2 {
      font-size: 3.316em;
      color: #4F4F60;
      font-family: 'Montserrat', sans-serif;
-
+     text-shadow: 1px 1px 2px #E899DC, 0 0 25px hotpink, 0 0 5px #FF328E;
  }
 
  span {
@@ -79,7 +84,8 @@ a:hover {
 nav {
     text-align: center;
     border-spacing: 5px;
-    margin-top: 50px;
+    margin: 50px 0 35px 0;
+    text-shadow: -1px 0 #4F4F60, 0 1px #4F4F60, 1px 0 #4F4F60, 0 -1px #4F4F60;
 }
 
 hr {
@@ -97,6 +103,16 @@ hr {
     height: 400px;
     border-radius: 2px;
     clear: none;
+    margin: 50px 0 2px 0;
+    box-shadow: 8px 4px 8px #E8B0DF, 20px 20px 20px 0 #E8B0DF;
+
+}
+
+figcaption {
+    font-size: 0.788em;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    color: #4F4F60;
 }
 
 #education,
@@ -129,7 +145,7 @@ hr {
 }
  
 #header1 {
-    padding-top: 7%;
+    padding-top: 2%;
 }
 
 #header1,
@@ -147,8 +163,12 @@ hr {
 footer {
     clear: both;
     text-align: center;
+    background-color: #FFC1FD;
+    width: 100%;
 }
 
 
-
+h1 {
+    
+  }
 
