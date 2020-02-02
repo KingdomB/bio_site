@@ -1,6 +1,8 @@
 /* FONTS
 font-family: 'Montserrat', sans-serif;
 font-family: 'Pinyon Script', cursive; */
+
+
 html {
   background-image: url("images/rosesgry.png");
   background-color: rgba(255, 211, 231, 1);
@@ -47,6 +49,9 @@ span {
   font-weight: 600;
   font-size: 1.866em;
   color: #4f4f60;
+  display: block;
+  padding: 2% 7% 2% 7%;
+  text-align: center;
 }
 
 #lastname {
