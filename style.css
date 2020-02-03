@@ -20,10 +20,6 @@ html {
   border-radius: 2px;
 }
 
-#a {
-  text-align: right;
-}
-
 #baby {
   margin-bottom: 50px;
 }
@@ -178,3 +174,14 @@ footer {
   background-color: #ffc1fd;
   width: 100%;
 }
+
+
+#career {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: inherit;
+    color: #4f4f60;
+    padding: 0;
+    margin: 0;
+}
+
